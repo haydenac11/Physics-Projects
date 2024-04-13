@@ -4,4 +4,4 @@
 
 Investigation into different ODE solvers when applied to the double pendulum system.
 
-![Double Pendulum](double_pendulum_animation.mp4)
+
